@@ -1,63 +1,65 @@
-<h1 align="center">Hi, I'm Dianah Mian 👋</h1>
+<h1 align="center">Hey there, I'm Dianah Mian 👋</h1>
 
 <p align="center">
-  💻 Frontend Developer & UI/UX Designer | 🇺🇬 Based in Uganda | 🌏 Open to Global Internships
+  👩‍💻 UI/UX Designer | Frontend Developer | 🇺🇬 Uganda | 🌸 Japanese Internship Ready
 </p>
 
 ---
 
-### 👩‍💻 About Me
-- 🎨 Passionate about blending **design** and **code**
-- 🛠️ I build **user-friendly apps** using Figma, FlutterFlow, Webflow, Bubble.io & HTML/CSS/JS
-- 📱 Designer of **CampusBite**, a food delivery app for campus students
-- 🌐 Created company websites like [Mian Technologies](https://miantechnologies.webflow.io)
-- 💡 Exploring **Japanese tech internships** and international collaborations
+### 🌟 About Me
+
+Hi! I'm **Dianah**, a creative problem solver who designs beautiful, user-friendly digital experiences.  
+I'm passionate about crafting **clean interfaces**, **mobile-first apps**, and **intuitive user flows**.
+
+I specialize in **Figma prototyping**, rapid app development using **FlutterFlow** and **Bubble.io**, and building real-world projects with **Web technologies**.
 
 ---
 
-### 🚀 My Skills
+### 🔧 My Toolbox
 
-**Design Tools**
-> Figma • Adobe XD • Canva • Webflow • Bubble.io
+#### 🎨 Design & Prototyping
+- Figma, Adobe XD, Canva  
+- FlutterFlow, Bubble.io  
+- UI/UX Design, Wireframing, User Flows
 
-**Frontend & Web**
-> HTML • CSS • JavaScript • Bootstrap • PHP • MySQL
+#### 🌐 Web Development
+- HTML, CSS, JavaScript  
+- PHP, MySQL  
+- Webflow, WordPress (basics)
 
-**Programming**
-> Java • C • WordPress (basic) • FlutterFlow
-
----
-
-### 📌 Featured Projects
-
-🌟 [CampusBite App](https://campusbite.flutterflow.app)  
-_Food ordering app for students. UI/UX designed in Figma & built with FlutterFlow._
-
-🌟 [Mian Technologies](https://miantechnologies.webflow.io)  
-_Business website for a tech startup using Webflow + custom design._
-
-🌟 [Voting App UI (2026 Elections)](Link to Figma or screenshots)  
-_Election data dashboard + mobile reporting interface (OCR, image upload, live results)._
-
-🌟 [Portfolio Website](Link if hosted)  
-_Interactive portfolio showcasing all my works and contact links._
+#### 💻 Programming
+- Java, C
 
 ---
 
-### 🧠 Currently Learning
-- 🧩 ReactJS & GitHub Actions
-- 🌏 Japanese culture & professional work etiquette
+### 🚀 Featured Projects
+
+🌐 [**Mian Technologies Website**](https://miantechnologies.webflow.io)  
+Business website built with **Webflow**, tailored UI/UX layout, responsive design.
+
+📱 [**CampusBite App**](https://campusbite.flutterflow.app)  
+Mobile food delivery app for students — Designed in **Figma**, built in **FlutterFlow** and **Bubble.io**.
+
+🗳️ **Voting App (Uganda 2026 Elections)**  
+Mobile reporting tool with **image upload**, **OCR**, **live results dashboard** — Designed with usability for agents in mind.
 
 ---
 
-### 📬 Let's Connect!
+### 📌 Currently Working On
 
-- 🌐 [My Portfolio Website](#)
-- 💼 [LinkedIn](#)
-- 💌 [Email Me](mailto:youremail@example.com)
-- 🧑‍💻 [GitHub](https://github.com/YourUsername)
+- Building my **GitHub Portfolio** ✨
+- Creating **mini-projects** in Java, PHP & JS
+- Preparing for **internships in Japan** 🇯🇵
 
 ---
 
-*“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs*
+### 📬 Let's Connect
 
+- 🌐 [Portfolio Website](#)  
+- 💌 Email: youremail@example.com  
+- 💼 LinkedIn: [Your Profile](#)  
+- 🧑‍💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
+
+---
+
+_“Design is intelligence made visible.” – Alina Wheeler_  
