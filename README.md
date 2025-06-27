@@ -55,10 +55,9 @@ Mobile reporting tool with **image upload**, **OCR**, **live results dashboard**
 
 ### 📬 Let's Connect
 
-- 🌐 [Portfolio Website](#)  
-- 💌 Email: youremail@example.com  
-- 💼 LinkedIn: [Your Profile](#)  
-- 🧑‍💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 🌐 [Portfolio Website](mbekeka-dianah.webflow.io)  
+- 💌 Email: dianahkabengera@gmail.com  
+- 🧑‍💻 GitHub: [github.com/dianahmi4n](https://github.com/dianahmi4n)
 
 ---
 
