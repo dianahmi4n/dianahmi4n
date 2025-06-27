@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Dianah Mian 👋</h1>
+<h1 align="center">Hey there, I'm Mbekeka Dianah 👋</h1>
 
 <p align="center">
   👩‍💻 UI/UX Designer | Frontend Developer | 🇺🇬 Uganda | 🌸 Japanese Internship Ready
